@@ -1,0 +1,3 @@
+name|version|archive_url|archive_hash
+example/test|1.0.0|https://github.com/Project-Pihta/Project-VTL-Module-Test/releases/download/1.0.0/module.zip|090294e1a1caaeba5d4371475e99f0f6b48da4194a5ac047083ec4b61080d17f0653f8a76713a385b445d8e96cbdc79c3a21907ec43524009ef24f9db3e0aef3
+example/test/invalid-hash|1.0.0|https://github.com/Project-Pihta/Project-VTL-Module-Test/releases/download/1.0.0/module.zip|090294e1a1caaeba5d4371475e99f0f6b48da4194a5ac047083ec4b61080d17f0653f8a76713a385b445d8e96cbdc79c3a21907ec43524009ef24f9db3e0aef3
