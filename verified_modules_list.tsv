@@ -1,2 +1,2 @@
-name  version  src_url  archive_url  archive_hash
-example/test  1.0.0  https://github.com/Project-Pihta/Project-VTL-Module-Test  https://github.com/Project-Pihta/Project-VTL-Module-Test/releases/download/1.0.0/example.zip  80942e8919d282139879e53153552965fbed91b2ac730730c9c783fabdb5ef4c480e30e3e5397dea13cc6256d3715c7baf1ed9134ab6b029fda5176e3ac7bf2f
+name  version  archive_url  archive_hash
+example/test  1.0.0  https://github.com/Project-Pihta/Project-VTL-Module-Test/releases/download/1.0.0/example.zip  80942e8919d282139879e53153552965fbed91b2ac730730c9c783fabdb5ef4c480e30e3e5397dea13cc6256d3715c7baf1ed9134ab6b029fda5176e3ac7bf2f
